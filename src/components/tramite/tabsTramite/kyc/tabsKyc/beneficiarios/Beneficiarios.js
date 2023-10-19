@@ -1,8 +1,5 @@
 import React from 'react';
 import Box from '@mui/material/Box';
-import Grid from '@mui/material/Grid';
-import Toolbar from '@mui/material/Toolbar';
-import Typography from '@mui/material/Typography';
 import Beneficiario from './Beneficiario';
 import Validacion from './Validacion';
 
