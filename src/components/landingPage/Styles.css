@@ -1,0 +1,36 @@
+.custom-logo-right {
+    text-align: right;
+}
+
+.custom-logo-small {
+    width: 200px;
+    height: 40px;
+    padding-right: 60px;
+}
+
+.custom-fa-lg {
+    font-size: 0.5em;
+    line-height: 0.75em;
+    vertical-align: -15%;
+}
+
+.custom-label-notificaciones {
+    font-size: 15px;
+}
+
+.custom-label-menu {
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.custom-label-usuario {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+    word-wrap: break-word;
+}
+
+.custom-align-right {
+    text-align: right;
+}

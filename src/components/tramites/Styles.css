@@ -1,0 +1,45 @@
+.area-selects {
+    width: 100%;
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.area-table {
+    padding-bottom: 70px;
+}
+
+.custom-info-label {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+.download-file {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.lateral-usuario {
+    height: 100%;
+    background-color: silver;
+    color: navy;
+    font-family: 'Roboto';
+}
+
+.lateral-titulo-label {
+    font-size: 28px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.lateral-center {
+    text-align: center;
+}
+
+.lateral-icon-user {
+    height: 100px!important;
+    width: 100px!important;
+}
